@@ -1,4 +1,4 @@
-# Django - creating API Tests
+# Django - creating API - Tests
 
 ## About
 This repository is my fifteenth homework assignment from the Python Pro course. This is my first introduction to the Django framework.
@@ -14,8 +14,8 @@ Added some functional to the apps, like:
 ## Run API
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/OleksiiUzu/django-api-homework-14-forms.git
-   cd django-api-homework-14-forms
+   git clone https://github.com/OleksiiUzu/django-api-homework-16-app-tests.git
+   cd django-api-homework-16-app-tests
 2.(Optional) Create and activate a virtual environment:
   python -m venv venv
   source venv/bin/activate
