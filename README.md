@@ -1,4 +1,4 @@
-# Django - creating API - Tests
+# Django - creating API - Tests 
 
 ## About
 This repository is my fifteenth homework assignment from the Python Pro course. This is my first introduction to the Django framework.
